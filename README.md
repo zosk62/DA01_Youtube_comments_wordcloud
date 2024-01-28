@@ -1,4 +1,20 @@
+
 # 📊 YouTube Comments Wordcloud Analysis
+
+## 📚 Language, Tools, and Libraries
+
+### 🖥️ Programming Language
+The analysis and code for this project were primarily conducted using the Python programming language.
+
+### 🧰 Tools
+- **Jupyter Notebook:** The code was developed and tested in a Jupyter Notebook environment.
+
+### 📚 Libraries
+The following Python libraries were crucial for the implementation of this analysis:
+- **pandas:** Used for data manipulation and analysis.
+- **konlpy:** A Korean natural language processing library for text analysis.
+- **matplotlib:** Employed for data visualization, including the creation of the word cloud.
+- **streamlit:** Utilized for building an interactive and engaging user interface for the analysis results.
 
 ## 🎯 Objective and Methodology
 
