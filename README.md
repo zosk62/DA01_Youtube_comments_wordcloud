@@ -18,7 +18,7 @@ The analysis results come to life in an interactive streamlit app, providing an 
 
 ## 🚀 Conclusion
 
-Through this comprehensive analysis, various compelling topics and issues related to energy generation in Korea were uncovered. The word cloud and analysis serve as a valuable resource to understand opinions and issues related to energy policy formulation, laying the groundwork for more effective policies and improvement strategies.
+Through this comprehensive analysis, various compelling topics and issues related to energy generation in Korea were uncovered. The word cloud and analysis serve as a tool to understand opinions and issues related to energy policy formulation.
 
 ---
 
